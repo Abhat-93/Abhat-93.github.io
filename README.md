@@ -2,4 +2,4 @@
 
 ## Welcome to my website
 
-### More info coming
+### More info coming soon
