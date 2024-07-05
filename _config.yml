@@ -22,7 +22,7 @@ repository               : #"academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "PhD Student in Computational Science Lab (<a href="http://https://csl.cs.vt.edu/">CSL</a>)  at Virginia Tech"
+  name             : "PhD Student in Computational Science Lab at Virginia Tech"
   pronouns         : #"he/him"  
   bio              : "Inverse Problems, Data Assimilation, Machine Learning, Optimization"
   location         : "Blacksburg"
