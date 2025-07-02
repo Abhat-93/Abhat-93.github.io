@@ -11,26 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Virginia Tech, USA, 2026 (expected)
+* M.S. in Computer Science, Virginia Tech, USA, 2024
+* M.S. in Structural Engineering and Scientific Computing, North Carolina State University, USA, 2020
+* B.S. in Civil Engineering, NIT Durgapur, India, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* * Fall 2020-current: GRA/GTA
+  * Virginia Tech
+  * Duties includes:
+  * Supervisor: Prof. Adrian Sandu
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2024: Givens Fellow
+  * Argonne National Laboratory
+  * Project: Exploring Reduced Sparse Inverse Cholesky Filtering technique in large AI weather model
+  * Supervisor:  Dr. Vishwas Rao
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Givens Fellow
+  * Argonne National Laboratory
+  * Project: Infusing data and observation using deep learning
+  * Supervisor: Prof. Romit Maulik
   
 Skills
 ======
