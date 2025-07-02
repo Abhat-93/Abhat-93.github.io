@@ -22,14 +22,14 @@ repository               : https://github.com/Abhat-93/Abhat-93.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "me.png"
+  name             : "Abhinab Bhattacharjee"
+  pronouns         : # example: "he/him"  
+  bio              : "PhD Candidate"
+  location         : "Blacksburg"
+  employer         : "Virginia Tech"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "abhinab93@vt.edu" 
 
   # Academic websites
   academia         : # URL
